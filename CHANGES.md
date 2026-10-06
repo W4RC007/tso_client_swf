@@ -2,6 +2,10 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.46
+
+- Opravené zelené označenie prieskumníkov zaradených do skupiny v okne Hviezda; členstvo sa načíta z rovnakých skupinových dát ako položky skupín.
+
 ## v0.18.45
 
 - Rozšírené okno cechu o nastaviteľné stĺpce s trvalým uložením šírok a lokalizovaným názvom aktívneho dobrodružstva každého člena.
