@@ -2,7 +2,10 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
-## v0.18.43
+## v0.18.45
+
+- Rozšírené okno cechu o nastaviteľné stĺpce s trvalým uložením šírok a lokalizovaným názvom aktívneho dobrodružstva každého člena.
+- Obnovená pôvodná zelená fajka na potvrdenie splnených questov; diamantové okamžité dokončenie zostáva samostatné.
 
 - Presúvanie vybraných herných okien vrátane okien budov a Excelsioru.
 - Skupiny prieskumníkov priamo v Hviezde, ich vlastné usporiadanie, premenovanie a otvorenie správy skupiny v Hospode.
