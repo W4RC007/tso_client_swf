@@ -2,6 +2,18 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.48
+
+- Mystery Box odmeny správne zobrazujú XP a PvP XP, zoskupujú rovnaké položky a formátujú veľké množstvá; manuálne číselné pole a synchronizovaný posuvník zostali zachované.
+- Pridané voliteľné trvalé zobrazovanie času buffu nad budovami.
+- Doplnené hromadné serverové akcie, nastaviteľné filtrovanie avatarových správ a odovzdávanie nových logových riadkov externým doplnkom.
+- Obchodný filter bezpečne zvláda neúplný stav a obchodné požiadavky sa mimo domovskej zóny neposielajú.
+- Zachované všetky W4 úpravy prieskumníckych skupín, Hviezdy, Hospody, presúvania okien a questových tlačidiel.
+
+## v0.18.47
+
+- Opravená zelená dvojpostavičková značka členstva prieskumníkov v skupine v okne Hviezda; modrá ikonka urýchlenia návratu za diamanty zostala nezmenená.
+
 ## v0.18.46
 
 - Opravené zelené označenie prieskumníkov zaradených do skupiny v okne Hviezda; členstvo sa načíta z rovnakých skupinových dát ako položky skupín.
