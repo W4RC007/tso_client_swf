@@ -2,6 +2,10 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.49
+
+- Opravená kompatibilita s aktuálnou LIVE verziou hry; klient teraz obsahuje správny herný hash a aktuálne mapovanie súborov.
+
 ## v0.18.48
 
 - Mystery Box odmeny správne zobrazujú XP a PvP XP, zoskupujú rovnaké položky a formátujú veľké množstvá; manuálne číselné pole a synchronizovaný posuvník zostali zachované.
