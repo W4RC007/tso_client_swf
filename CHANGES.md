@@ -2,6 +2,14 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.54
+
+- Strom vlastností podporuje dve samostatné plne editovateľné, presúvateľné a nezávisle pripínateľné okná pre geológov, prieskumníkov a generálov.
+- Pripnutý Strom vlastností zostáva otvorený pri otvorení iných okien a druhý strom sa otvorí vycentrovaný nezávisle od polohy prvého.
+- Potvrdenie, zrušenie a serverové spracovanie zmien sú oddelené pre správny strom; rozpracované body druhého stromu sa zachovajú aj pri obnovení dát.
+- Hlavné okno geológa, prieskumníka a generála možno presúvať za hornú lištu.
+- Okná pri prvom otvorení už krátko neprebliknú v ľavom hornom rohu; vytvorenie, rozloženie a umiestnenie prebehne ešte pred ich zobrazením.
+
 ## v0.18.49
 
 - Opravená kompatibilita s aktuálnou LIVE verziou hry; klient teraz obsahuje správny herný hash a aktuálne mapovanie súborov.
