@@ -2,6 +2,12 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.55
+
+- Krížik vždy zavrie konkrétny Strom vlastností, aj keď je okno pripnuté.
+- Pripnutie už znamená iba to, že strom zostane otvorený pri otvorení druhého stromu.
+- Nepripnutý strom sa pri otvorení iného stromu nahradí, takže bez pripnutia zostáva otvorené iba nové okno.
+
 ## v0.18.54
 
 - Strom vlastností podporuje dve samostatné plne editovateľné, presúvateľné a nezávisle pripínateľné okná pre geológov, prieskumníkov a generálov.
