@@ -2,6 +2,11 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.57
+
+- Opravené zatváranie pripnutých okien Kniha úloh, Kolonie, Kupec, Prehľad ekonomiky a Pošta; po zatvorení už nezostane blokujúca tmavá vrstva.
+- Pripnutie uvoľní modálnu vrstvu a odopnutie ju obnoví iba pri oknách, ktoré ju štandardne používajú.
+
 ## v0.18.56
 
 - Knihu úloh, Kolonie, Kupca, Prehľad ekonomiky a Poštu možno presúvať za hornú titulkovú lištu a pripnúť.
