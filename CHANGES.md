@@ -2,6 +2,10 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.58
+
+- Stĺpec Aktívne dobrodružstvá v zozname členov cechu podporuje triedenie kliknutím na hlavičku vrátane šípky smeru.
+
 ## v0.18.57
 
 - Opravené zatváranie pripnutých okien Kniha úloh, Kolonie, Kupec, Prehľad ekonomiky a Pošta; po zatvorení už nezostane blokujúca tmavá vrstva.
