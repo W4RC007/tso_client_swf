@@ -2,6 +2,11 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.56
+
+- Knihu úloh, Kolonie, Kupca, Prehľad ekonomiky a Poštu možno presúvať za hornú titulkovú lištu a pripnúť.
+- Pripnuté okno zostane otvorené pri otvorení ďalšieho okna; krížik alebo vlastné zatváracie tlačidlo ho vždy zavrie a zruší pripnutie.
+
 ## v0.18.55
 
 - Krížik vždy zavrie konkrétny Strom vlastností, aj keď je okno pripnuté.
