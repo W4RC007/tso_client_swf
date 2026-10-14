@@ -2,6 +2,16 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.59
+
+- Okno Poslať armádu možno zväčšovať, filtrovať podľa mena a hromadne označiť zobrazených generálov; ich predvolené poradie zodpovedá Hviezde.
+- Vyhľadávanie vo Hviezde zahŕňa lokalizované popisy špecialistov a buffov a filter možno vymazať jedným tlačidlom.
+- Opakované avatarové oznámenia sa zoskupujú s počítadlom a obnoveným časom zobrazenia.
+- Obnovuje sa uložený filter Pathfinder/PvP úloh a správne sa prepína tlačidlo zaplatenia úlohy.
+- Pozvanie do dobrodružstva je dostupné aj z kontextového menu hráča mimo chatu.
+- Opravený pád pri skorom otvorení tooltipu prehľadu populácie.
+- Zachované sú W4 skupiny prieskumníkov, manuálne pole Mystery Boxov, presúvanie a pripínanie okien aj rozšírenia cechu.
+
 ## v0.18.58
 
 - Stĺpec Aktívne dobrodružstvá v zozname členov cechu podporuje triedenie kliknutím na hlavičku vrátane šípky smeru.
