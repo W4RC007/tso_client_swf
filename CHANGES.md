@@ -2,6 +2,10 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.60
+
+- Aktualizovaná kompatibilita s aktuálnou LIVE verziou hry (`6093fccd209dd3fb9db975e25d5bc45df9a0ebf3`) bez zmeny funkcií W4 klienta.
+
 ## v0.18.59
 
 - Okno Poslať armádu možno zväčšovať, filtrovať podľa mena a hromadne označiť zobrazených generálov; ich predvolené poradie zodpovedá Hviezde.
