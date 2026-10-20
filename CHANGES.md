@@ -2,6 +2,13 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.65
+
+- Chat podporuje ručné stavy Online, Chat, Neprítomný, Dlhšie neprítomný a Nerušiť cez nové tlačidlo aj príkaz `/status`.
+- Po piatich minútach bez aktivity sa automatický režim prepne na Neprítomný a po návrate obnoví Online; ručne zvolené stavy sa nemenia.
+- Priatelia a členovia cechu zobrazujú rozlíšené stavové ikony. Ovládanie je lokalizované pre CZ/SK/DE/EN s anglickým fallbackom.
+- Zachované sú W4 skupiny prieskumníkov, manuálne pole Mystery Boxov, presúvanie a pripínanie okien, cechové rozšírenia aj Mission Recorder.
+
 ## v0.18.60
 
 - Aktualizovaná kompatibilita s aktuálnou LIVE verziou hry (`6093fccd209dd3fb9db975e25d5bc45df9a0ebf3`) bez zmeny funkcií W4 klienta.
