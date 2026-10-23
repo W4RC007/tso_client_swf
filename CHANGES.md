@@ -2,6 +2,11 @@
 
 Changes compared with the original `client.swf` by fodorvvl.
 
+## v0.18.66
+
+- Opravená vlastná ikona chatového stavu v zozname členov cechu.
+- Aktualizovaná kompatibilita s LIVE verziou hry `09eabb6de596b564b32788925c41da1beb927558`.
+
 ## v0.18.65
 
 - Chat podporuje ručné stavy Online, Chat, Neprítomný, Dlhšie neprítomný a Nerušiť cez nové tlačidlo aj príkaz `/status`.
